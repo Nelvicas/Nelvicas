@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 <table>
 <a href="https://youtu.be/_y9qQZXE24A">
 <img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
+-->
